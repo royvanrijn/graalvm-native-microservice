@@ -1,0 +1,79 @@
+[
+  {
+    "name" : "java.lang.Class",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }, {
+    "name" : "org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorBuilderImpl",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }, {
+   "name" : "oracle.jdbc.driver.T4CDriverExtension",
+   "allDeclaredConstructors" : true,
+   "allPublicConstructors" : true,
+   "allDeclaredMethods" : true,
+   "allPublicMethods" : true
+  }, {
+    "name" : "org.hibernate.dialect.Oracle8iDialect",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }, {
+    "name" : "org.hibernate.dialect.Oracle10gDialect",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }, {
+    "name" : "oracle.sql.AnyDataFactory"
+  }, {
+    "name" : "oracle.sql.TypeDescriptorFactory"
+  }, {
+    "name" : "oracle.as.jmx.framework.PortableMBeanFactory",
+    "methods" : [{ "name" : "<init>", "parameterTypes" : [] }]
+  }, {
+    "name" : "oracle.jdbc.driver.OracleDriver",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }, {
+    "name" : "org.hibernate.boot.model.naming.ImplicitNamingStrategyJpaCompliantImpl",
+    "methods" : [{ "name" : "<init>", "parameterTypes" : [] }]
+  }, {
+    "name" : "com.sun.xml.internal.stream.events.XMLEventFactoryImpl",
+    "methods" : [{ "name" : "<init>", "parameterTypes" : [] }]
+  }, {
+    "name" : "com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl",
+    "methods" : [{ "name" : "<init>", "parameterTypes" : [] }]
+  }, {
+    "name" : "com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl",
+    "methods" : [{ "name" : "<init>", "parameterTypes" : [] }]
+  }, {
+    "name" : "java.lang.Integer",
+    "methods" : [{ "name" : "parseInt", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Long",
+    "methods" : [{ "name" : "parseLong", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Boolean",
+    "methods" : [{ "name" : "parseBoolean", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Byte",
+    "methods" : [{ "name" : "parseByte", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Short",
+    "methods" : [{ "name" : "parseShort", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Float",
+    "methods" : [{ "name" : "parseFloat", "parameterTypes" : ["java.lang.String"]}]
+  }, {
+    "name" : "java.lang.Double",
+    "methods" : [{ "name" : "parseDouble", "parameterTypes" : ["java.lang.String"]}]
+  }
+]
